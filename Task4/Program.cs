@@ -1,8 +1,8 @@
 ﻿string input = "(()())";
-Console.WriteLine(IsProperly(input)); // Output: True
+Console.WriteLine(IsProperly(input)); 
 
 input = "())()";
-Console.WriteLine(IsProperly(input)); // Output: False
+Console.WriteLine(IsProperly(input)); 
 
 
 static bool IsProperly(string sequence)
