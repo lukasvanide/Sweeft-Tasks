@@ -1,0 +1,1 @@
+﻿// task6-sql foldershi aris sql failebi taskistvis;
